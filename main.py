@@ -10,7 +10,7 @@ st.set_page_config(page_title="Cockpit ARC", page_icon="✈️", layout="wide")
 st.markdown("## Encendiendo motores digitales...")
 st.progress(100)
 time.sleep(0.7)
-st.image("assets/arc_logo.png", width=120)
+#st.image("assets/arc_logo.png", width=120)
 
 # 🛡️ Bienvenida con firma
 st.title("🛡️ Cockpit ARC")
